@@ -4,7 +4,7 @@ title: "Ruby Core"
 lang: en
 ---
 
-Now is a fantastic time to follow Ruby’s development. With the increased
+>Now is a fantastic time to follow Ruby’s development. With the increased
 attention Ruby has received in the past few years, there’s a growing need
 for good talent to help enhance Ruby and document its parts.
 So, where do you start?

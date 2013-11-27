@@ -4,7 +4,7 @@ title: "Mailing Lists"
 lang: en
 ---
 
-Mailing-lists are a great way to keep your finger on the pulse of the
+>Mailing-lists are a great way to keep your finger on the pulse of the
 Ruby community. Ruby has four primary English speaking mailing lists:
 
 Ruby-Talk

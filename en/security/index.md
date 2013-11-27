@@ -4,7 +4,7 @@ title: "Security"
 lang: en
 ---
 
-Here you will find information about security issues of Ruby.
+>Here you will find information about security issues of Ruby.
 
 ## Reporting Security Vulnerabilities
 

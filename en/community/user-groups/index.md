@@ -4,7 +4,7 @@ title: "User Groups"
 lang: en
 ---
 
-In the programming community, user groups form support networks for
+>In the programming community, user groups form support networks for
 people interested in certain topics. They are a great place to increase
 your skills and network with other programmers. User groups are informal
 and their structure varies from group to group. Anyone can form their

@@ -4,7 +4,7 @@ title: "Libraries"
 lang: en
 ---
 
-As most programming languages, Ruby leverages a wide set of third-party
+>As most programming languages, Ruby leverages a wide set of third-party
 libraries.
 
 Most of them are released in the form of a **gem**. [**RubyGems**][1] is

@@ -4,7 +4,7 @@ title: "Documentation"
 lang: en
 ---
 
-Here you will find pointers to manuals, tutorials and references that
+>Here you will find pointers to manuals, tutorials and references that
 will come in handy when you feel like coding in Ruby.
 
 ### Getting Started
